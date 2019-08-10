@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ca6fb1ab382bb9bf7538f11c175d29db.js"
+  "/precache-manifest.1bb7dea9e85d249339733e2e32f9f264.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "abdurahmanfz-2.0"});
